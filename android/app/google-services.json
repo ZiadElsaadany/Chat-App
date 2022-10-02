@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488654728431",
+    "project_id": "chat-with-tharwat-samy",
+    "storage_bucket": "chat-with-tharwat-samy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488654728431:android:2b181cf65b8ddce60fbf1a",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_with_tharwat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488654728431-o2jca2hoeditk6o9ua280257kj8480lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1MAJ4Vd7S87-tG2WAza4_Qe4T--2OdnE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488654728431-o2jca2hoeditk6o9ua280257kj8480lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
